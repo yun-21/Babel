@@ -6,7 +6,7 @@ function add (a:number,b:number):number{
 interface Truth {
   name : string;
   age : number;
-  job : "추노";
+  job : "미덕";
 }
 
 function minam():Truth{
